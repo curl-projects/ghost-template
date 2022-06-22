@@ -1,0 +1,71 @@
+{"name":"Log","hostname":"Finns-MacBook-Pro.local","pid":17676,"level":30,"msg":"Ghost is running in development...","time":"2022-06-22T23:48:52.955Z","v":0}
+{"name":"Log","hostname":"Finns-MacBook-Pro.local","pid":17676,"level":30,"msg":"Listening on: 127.0.0.1:2368","time":"2022-06-22T23:48:52.959Z","v":0}
+{"name":"Log","hostname":"Finns-MacBook-Pro.local","pid":17676,"level":30,"msg":"Url configured as: http://localhost:2368/","time":"2022-06-22T23:48:52.962Z","v":0}
+{"name":"Log","hostname":"Finns-MacBook-Pro.local","pid":17676,"level":30,"msg":"Ctrl+C to shut down","time":"2022-06-22T23:48:52.965Z","v":0}
+{"name":"Log","hostname":"Finns-MacBook-Pro.local","pid":17676,"level":30,"msg":"Ghost server started in 0.718s","time":"2022-06-22T23:48:52.970Z","v":0}
+{"name":"Log","hostname":"Finns-MacBook-Pro.local","pid":17676,"level":40,"msg":"Database state requires initialisation.","time":"2022-06-22T23:48:53.412Z","v":0}
+{"name":"Log","hostname":"Finns-MacBook-Pro.local","pid":17676,"level":30,"msg":"Creating table: newsletters","time":"2022-06-22T23:48:53.682Z","v":0}
+{"name":"Log","hostname":"Finns-MacBook-Pro.local","pid":17676,"level":30,"msg":"Creating table: posts","time":"2022-06-22T23:48:53.690Z","v":0}
+{"name":"Log","hostname":"Finns-MacBook-Pro.local","pid":17676,"level":30,"msg":"Creating table: posts_meta","time":"2022-06-22T23:48:53.695Z","v":0}
+{"name":"Log","hostname":"Finns-MacBook-Pro.local","pid":17676,"level":30,"msg":"Creating table: users","time":"2022-06-22T23:48:53.701Z","v":0}
+{"name":"Log","hostname":"Finns-MacBook-Pro.local","pid":17676,"level":30,"msg":"Creating table: posts_authors","time":"2022-06-22T23:48:53.711Z","v":0}
+{"name":"Log","hostname":"Finns-MacBook-Pro.local","pid":17676,"level":30,"msg":"Creating table: roles","time":"2022-06-22T23:48:53.716Z","v":0}
+{"name":"Log","hostname":"Finns-MacBook-Pro.local","pid":17676,"level":30,"msg":"Creating table: roles_users","time":"2022-06-22T23:48:53.724Z","v":0}
+{"name":"Log","hostname":"Finns-MacBook-Pro.local","pid":17676,"level":30,"msg":"Creating table: permissions","time":"2022-06-22T23:48:53.739Z","v":0}
+{"name":"Log","hostname":"Finns-MacBook-Pro.local","pid":17676,"level":30,"msg":"Creating table: permissions_users","time":"2022-06-22T23:48:53.752Z","v":0}
+{"name":"Log","hostname":"Finns-MacBook-Pro.local","pid":17676,"level":30,"msg":"Creating table: permissions_roles","time":"2022-06-22T23:48:53.756Z","v":0}
+{"name":"Log","hostname":"Finns-MacBook-Pro.local","pid":17676,"level":30,"msg":"Creating table: settings","time":"2022-06-22T23:48:53.759Z","v":0}
+{"name":"Log","hostname":"Finns-MacBook-Pro.local","pid":17676,"level":30,"msg":"Creating table: tags","time":"2022-06-22T23:48:53.762Z","v":0}
+{"name":"Log","hostname":"Finns-MacBook-Pro.local","pid":17676,"level":30,"msg":"Creating table: posts_tags","time":"2022-06-22T23:48:53.766Z","v":0}
+{"name":"Log","hostname":"Finns-MacBook-Pro.local","pid":17676,"level":30,"msg":"Creating table: invites","time":"2022-06-22T23:48:53.769Z","v":0}
+{"name":"Log","hostname":"Finns-MacBook-Pro.local","pid":17676,"level":30,"msg":"Creating table: brute","time":"2022-06-22T23:48:53.773Z","v":0}
+{"name":"Log","hostname":"Finns-MacBook-Pro.local","pid":17676,"level":30,"msg":"Creating table: sessions","time":"2022-06-22T23:48:53.777Z","v":0}
+{"name":"Log","hostname":"Finns-MacBook-Pro.local","pid":17676,"level":30,"msg":"Creating table: integrations","time":"2022-06-22T23:48:53.781Z","v":0}
+{"name":"Log","hostname":"Finns-MacBook-Pro.local","pid":17676,"level":30,"msg":"Creating table: webhooks","time":"2022-06-22T23:48:53.783Z","v":0}
+{"name":"Log","hostname":"Finns-MacBook-Pro.local","pid":17676,"level":30,"msg":"Creating table: api_keys","time":"2022-06-22T23:48:53.787Z","v":0}
+{"name":"Log","hostname":"Finns-MacBook-Pro.local","pid":17676,"level":30,"msg":"Creating table: mobiledoc_revisions","time":"2022-06-22T23:48:53.789Z","v":0}
+{"name":"Log","hostname":"Finns-MacBook-Pro.local","pid":17676,"level":30,"msg":"Creating table: members","time":"2022-06-22T23:48:53.790Z","v":0}
+{"name":"Log","hostname":"Finns-MacBook-Pro.local","pid":17676,"level":30,"msg":"Creating table: products","time":"2022-06-22T23:48:53.793Z","v":0}
+{"name":"Log","hostname":"Finns-MacBook-Pro.local","pid":17676,"level":30,"msg":"Creating table: offers","time":"2022-06-22T23:48:53.794Z","v":0}
+{"name":"Log","hostname":"Finns-MacBook-Pro.local","pid":17676,"level":30,"msg":"Creating table: benefits","time":"2022-06-22T23:48:53.797Z","v":0}
+{"name":"Log","hostname":"Finns-MacBook-Pro.local","pid":17676,"level":30,"msg":"Creating table: products_benefits","time":"2022-06-22T23:48:53.798Z","v":0}
+{"name":"Log","hostname":"Finns-MacBook-Pro.local","pid":17676,"level":30,"msg":"Creating table: members_products","time":"2022-06-22T23:48:53.801Z","v":0}
+{"name":"Log","hostname":"Finns-MacBook-Pro.local","pid":17676,"level":30,"msg":"Creating table: posts_products","time":"2022-06-22T23:48:53.803Z","v":0}
+{"name":"Log","hostname":"Finns-MacBook-Pro.local","pid":17676,"level":30,"msg":"Creating table: members_cancel_events","time":"2022-06-22T23:48:53.805Z","v":0}
+{"name":"Log","hostname":"Finns-MacBook-Pro.local","pid":17676,"level":30,"msg":"Creating table: members_payment_events","time":"2022-06-22T23:48:53.808Z","v":0}
+{"name":"Log","hostname":"Finns-MacBook-Pro.local","pid":17676,"level":30,"msg":"Creating table: members_login_events","time":"2022-06-22T23:48:53.808Z","v":0}
+{"name":"Log","hostname":"Finns-MacBook-Pro.local","pid":17676,"level":30,"msg":"Creating table: members_email_change_events","time":"2022-06-22T23:48:53.809Z","v":0}
+{"name":"Log","hostname":"Finns-MacBook-Pro.local","pid":17676,"level":30,"msg":"Creating table: members_status_events","time":"2022-06-22T23:48:53.810Z","v":0}
+{"name":"Log","hostname":"Finns-MacBook-Pro.local","pid":17676,"level":30,"msg":"Creating table: members_product_events","time":"2022-06-22T23:48:53.811Z","v":0}
+{"name":"Log","hostname":"Finns-MacBook-Pro.local","pid":17676,"level":30,"msg":"Creating table: members_paid_subscription_events","time":"2022-06-22T23:48:53.816Z","v":0}
+{"name":"Log","hostname":"Finns-MacBook-Pro.local","pid":17676,"level":30,"msg":"Creating table: labels","time":"2022-06-22T23:48:53.820Z","v":0}
+{"name":"Log","hostname":"Finns-MacBook-Pro.local","pid":17676,"level":30,"msg":"Creating table: members_labels","time":"2022-06-22T23:48:53.823Z","v":0}
+{"name":"Log","hostname":"Finns-MacBook-Pro.local","pid":17676,"level":30,"msg":"Creating table: members_stripe_customers","time":"2022-06-22T23:48:53.823Z","v":0}
+{"name":"Log","hostname":"Finns-MacBook-Pro.local","pid":17676,"level":30,"msg":"Creating table: members_stripe_customers_subscriptions","time":"2022-06-22T23:48:53.825Z","v":0}
+{"name":"Log","hostname":"Finns-MacBook-Pro.local","pid":17676,"level":30,"msg":"Creating table: offer_redemptions","time":"2022-06-22T23:48:53.827Z","v":0}
+{"name":"Log","hostname":"Finns-MacBook-Pro.local","pid":17676,"level":30,"msg":"Creating table: members_subscribe_events","time":"2022-06-22T23:48:53.828Z","v":0}
+{"name":"Log","hostname":"Finns-MacBook-Pro.local","pid":17676,"level":30,"msg":"Creating table: stripe_products","time":"2022-06-22T23:48:53.829Z","v":0}
+{"name":"Log","hostname":"Finns-MacBook-Pro.local","pid":17676,"level":30,"msg":"Creating table: stripe_prices","time":"2022-06-22T23:48:53.830Z","v":0}
+{"name":"Log","hostname":"Finns-MacBook-Pro.local","pid":17676,"level":30,"msg":"Creating table: actions","time":"2022-06-22T23:48:53.832Z","v":0}
+{"name":"Log","hostname":"Finns-MacBook-Pro.local","pid":17676,"level":30,"msg":"Creating table: emails","time":"2022-06-22T23:48:53.832Z","v":0}
+{"name":"Log","hostname":"Finns-MacBook-Pro.local","pid":17676,"level":30,"msg":"Creating table: email_batches","time":"2022-06-22T23:48:53.834Z","v":0}
+{"name":"Log","hostname":"Finns-MacBook-Pro.local","pid":17676,"level":30,"msg":"Creating table: email_recipients","time":"2022-06-22T23:48:53.835Z","v":0}
+{"name":"Log","hostname":"Finns-MacBook-Pro.local","pid":17676,"level":30,"msg":"Creating table: tokens","time":"2022-06-22T23:48:53.841Z","v":0}
+{"name":"Log","hostname":"Finns-MacBook-Pro.local","pid":17676,"level":30,"msg":"Creating table: snippets","time":"2022-06-22T23:48:53.844Z","v":0}
+{"name":"Log","hostname":"Finns-MacBook-Pro.local","pid":17676,"level":30,"msg":"Creating table: custom_theme_settings","time":"2022-06-22T23:48:53.846Z","v":0}
+{"name":"Log","hostname":"Finns-MacBook-Pro.local","pid":17676,"level":30,"msg":"Creating table: members_newsletters","time":"2022-06-22T23:48:53.846Z","v":0}
+{"name":"Log","hostname":"Finns-MacBook-Pro.local","pid":17676,"level":30,"msg":"Model: Product","time":"2022-06-22T23:48:54.250Z","v":0}
+{"name":"Log","hostname":"Finns-MacBook-Pro.local","pid":17676,"level":30,"msg":"Model: Newsletter","time":"2022-06-22T23:48:54.260Z","v":0}
+{"name":"Log","hostname":"Finns-MacBook-Pro.local","pid":17676,"level":30,"msg":"Model: Tag","time":"2022-06-22T23:48:54.268Z","v":0}
+{"name":"Log","hostname":"Finns-MacBook-Pro.local","pid":17676,"level":30,"msg":"Model: Permission","time":"2022-06-22T23:48:54.275Z","v":0}
+{"name":"Log","hostname":"Finns-MacBook-Pro.local","pid":17676,"level":30,"msg":"Model: Post","time":"2022-06-22T23:48:54.720Z","v":0}
+{"name":"Log","hostname":"Finns-MacBook-Pro.local","pid":17676,"level":30,"msg":"Model: Integration","time":"2022-06-22T23:48:55.249Z","v":0}
+{"name":"Log","hostname":"Finns-MacBook-Pro.local","pid":17676,"level":30,"msg":"Relation: Role to Permission","time":"2022-06-22T23:48:55.286Z","v":0}
+{"name":"Log","hostname":"Finns-MacBook-Pro.local","pid":17676,"level":30,"msg":"Relation: Post to Tag","time":"2022-06-22T23:48:55.565Z","v":0}
+{"name":"Log","hostname":"Finns-MacBook-Pro.local","pid":17676,"level":30,"msg":"Database is in a ready state.","time":"2022-06-22T23:48:55.633Z","v":0}
+{"name":"Log","hostname":"Finns-MacBook-Pro.local","pid":17676,"level":30,"msg":"Ghost database ready in 3.388s","time":"2022-06-22T23:48:55.636Z","v":0}
+{"name":"Log","hostname":"Finns-MacBook-Pro.local","pid":17676,"level":30,"msg":"Stripe not configured - skipping migrations","time":"2022-06-22T23:48:58.425Z","v":0}
+{"name":"Log","hostname":"Finns-MacBook-Pro.local","pid":17676,"level":30,"msg":"Ghost booted in 6.253s","time":"2022-06-22T23:48:58.503Z","v":0}
+{"name":"Log","hostname":"Finns-MacBook-Pro.local","pid":17676,"level":30,"msg":"Adding offloaded job to the queue","time":"2022-06-22T23:48:58.509Z","v":0}
+{"name":"Log","hostname":"Finns-MacBook-Pro.local","pid":17676,"level":30,"msg":"Scheduling job update-check at 2 22 10 * * *. Next run on: Thu Jun 23 2022 10:22:02 GMT-0700 (Pacific Daylight Time)","time":"2022-06-22T23:48:58.538Z","v":0}
+{"name":"Log","hostname":"Finns-MacBook-Pro.local","pid":17676,"level":30,"msg":"Ghost URL Service Ready in 6.316s","time":"2022-06-22T23:48:58.568Z","v":0}
